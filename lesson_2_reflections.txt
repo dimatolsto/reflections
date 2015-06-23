@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git created a snapshot of all files in a repository. We need it to track all the changes in the files after commit it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is intermediate place for files to be commited.
