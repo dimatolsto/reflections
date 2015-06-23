@@ -10,4 +10,15 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 I can use git diff --staged command
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+when I try new feature; when few developers work for different features
+
+How do the diagrams help you visualize the branch structure?
+
+They help to track back from branches to nodes to see changes
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Proc: easy to do if there is no conflicts
+cons: not resolve conflicts 
