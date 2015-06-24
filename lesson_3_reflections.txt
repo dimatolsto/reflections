@@ -6,3 +6,8 @@ for collaborative work.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 In a collaborative work, I don't want to mix it to my own work
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks work in GitHub to make a copy to another user. Clones work at GitHub and locally to make a copy for the same user. Branches work at local repository only.
+When I am interested in another user's project, I clone it to my repository. When I want repository locally, I clone it. When I want to add another feature or developer to the project, I branch it.
