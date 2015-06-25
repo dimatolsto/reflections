@@ -19,3 +19,7 @@ to be up to date and avoid conflicts
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use skype and gmail. It's easier to talk and discuss the changes. It's harder to make changes and control them.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when we add different features to the project, working on it collaboratively.
